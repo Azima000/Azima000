@@ -196,10 +196,8 @@ const azima = {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Azima000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azima000&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Azima000&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Azima000&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -215,7 +213,7 @@ const azima = {
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Azima000&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Azima000&theme=discord&no-frame=true&row=1&column=6"/>
 </p>
 
 ---

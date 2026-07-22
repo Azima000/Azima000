@@ -213,10 +213,10 @@ const azima = {
 
 ---
 
-# 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Azima000&theme=discord&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Azima000&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
